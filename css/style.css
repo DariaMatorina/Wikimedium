@@ -3,10 +3,8 @@
 font-size: 35pt;
 font-family: 'Libre Barcode 39 Text';
 position: relative;
-height: 150px;
 }
 .menu{
-  height: 15pt;
   margin-bottom: 0px;
 }
 .menu a{
@@ -14,8 +12,7 @@ height: 150px;
   color: black;
   font-family: 'Slabo 27px';
   font-size: 15pt;
-  margin-left: 10pt;
-  float: right;
+  margin-right: 10pt;
 }
 .menu a:hover{
   color:#A5A5A5;
@@ -65,7 +62,6 @@ height: 150px;
   color: black;
   font-family: 'Slabo 27px';
   font-size: 20pt;
-  margin-left: 10pt;
 }
 .menu a:hover{
   color:#A5A5A5;
