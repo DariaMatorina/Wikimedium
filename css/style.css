@@ -16,7 +16,7 @@ position: relative;
 }
 .menu a:hover{
   color:#A5A5A5;
-  text-decoration: none;
+  text-decoration: underline;
 }
 .bio{
   margin-top: 50px;
@@ -62,8 +62,4 @@ position: relative;
   color: black;
   font-family: 'Slabo 27px';
   font-size: 20pt;
-}
-.menu a:hover{
-  color:#A5A5A5;
-  text-decoration: none;
 }
